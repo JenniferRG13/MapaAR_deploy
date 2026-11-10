@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 78,
+    "left": 0,
+    "width": 591,
+    "height": 788,
+    "isRotated": true,
+    "originalWidth": 591,
+    "originalHeight": 945
+  },
+  "imagePath": "image-targets/imageTarget_sabana_luminance.jpg",
+  "metadata": null,
+  "name": "imageTarget_sabana",
+  "resources": {
+    "originalImage": "imageTarget_sabana_original.jpg",
+    "croppedImage": "imageTarget_sabana_cropped.jpg",
+    "thumbnailImage": "imageTarget_sabana_thumbnail.jpg",
+    "luminanceImage": "imageTarget_sabana_luminance.jpg"
+  },
+  "created": 1794269118712,
+  "updated": 1794269118712
+}

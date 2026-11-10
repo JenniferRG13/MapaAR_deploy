@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 77,
+    "left": 0,
+    "width": 592,
+    "height": 789,
+    "isRotated": true,
+    "originalWidth": 592,
+    "originalHeight": 945
+  },
+  "imagePath": "image-targets/imageTarget_cristales_luminance.jpg",
+  "metadata": null,
+  "name": "imageTarget_cristales",
+  "resources": {
+    "originalImage": "imageTarget_cristales_original.jpg",
+    "croppedImage": "imageTarget_cristales_cropped.jpg",
+    "thumbnailImage": "imageTarget_cristales_thumbnail.jpg",
+    "luminanceImage": "imageTarget_cristales_luminance.jpg"
+  },
+  "created": 1794269234869,
+  "updated": 1794269234869
+}

@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 78,
+    "left": 0,
+    "width": 592,
+    "height": 789,
+    "isRotated": true,
+    "originalWidth": 592,
+    "originalHeight": 946
+  },
+  "imagePath": "image-targets/imageTarget_selva_luminance.jpg",
+  "metadata": null,
+  "name": "imageTarget_selva",
+  "resources": {
+    "originalImage": "imageTarget_selva_original.jpg",
+    "croppedImage": "imageTarget_selva_cropped.jpg",
+    "thumbnailImage": "imageTarget_selva_thumbnail.jpg",
+    "luminanceImage": "imageTarget_selva_luminance.jpg"
+  },
+  "created": 1794269179527,
+  "updated": 1794269179527
+}
